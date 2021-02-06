@@ -3,11 +3,11 @@ const express = require('express');
 const cors = require('cors');
 
 const app = express();
-const quizzRouter = require('./routers/quizzRouter');
+const professionsRouter = require('./routers/professionsRouter');
 
 app.use(cors());
 app.use(express.json());
 
-app.use('/quizz', quizzRouter);
+app.use('/professions', professionsRouter);
 
 module.exports = app;
