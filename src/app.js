@@ -11,4 +11,7 @@ app.use(express.json());
 
 app.use('/professions', professionsRouter);
 
+// eslint-disable-next-line no-unused-vars
+app.use((error, req, res, next) => res.status(500).json(error));
+
 module.exports = app;

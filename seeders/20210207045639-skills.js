@@ -39,12 +39,20 @@ module.exports = {
         description: 'A humildade é a virtude de compreender as próprias limitações e fraquezas e agir de acordo com essa consciência. Refere-se às qualidades de pessoas que não procuram se projetar nos outros, nem se mostram superiores aos demais.',
       },
       {
+        name: 'Aprendizado ativo',
+        description: 'Saber que estamos sempre aprendendo e buscar formas de aprender mais, seja lendo, vendo vídeos, fazendo cursos, etc.',
+      },
+      {
         name: 'Criatividade',
         description: 'É a capacidade de criar e inventar. Também mostra a qualidade daqueles que têm percepções originais ou se mostra capaz de propor novas narrativas.',
       },
       {
         name: 'Pensamento crítico',
         description: 'O pensamento crítico significa analisar situações de diferentes perspectivas e usar diferentes argumentos para tomar decisões consistentes. Abrange a capacidade de agir diante dos problemas de forma imparcial e crítica.',
+      },
+      {
+        name: 'Mediação e Facilitação',
+        description: 'Saber conversar com pessoas diferentes para facilitar o entendimento e a solução de problemas (ou mesmo tarefas) do dia a dia.',
       },
       {
         image: 'https://www.imagemhost.com.br/images/2021/02/07/Time-management-bro.png',
@@ -65,6 +73,26 @@ module.exports = {
         image: 'https://www.imagemhost.com.br/images/2021/02/07/qt1UYRr.png',
         name: 'Trabalho em equipe',
         description: 'O trabalho em equipe é quando pessoas com diferentes vivências, visões e opiniões se unem para resolver um problema em comum.',
+      },
+      {
+        name: 'Capacidade de resolver problemas',
+        description: 'Uma das características mais exigidas no mercado, é necessário que a pessoa saiba resolver problemas da melhor forma possível',
+      },
+      {
+        name: 'Trabalhar sob pressão',
+        description: 'O tipo de pressão varia de acordo com a profissão, algumas profissões tem prazos curtos e não negociáveis, já outras tem metas de entrega',
+      },
+      {
+        name: 'Negociação',
+        description: 'O patrocinador(a) do projeto muitas vezes tem uma expectativa grande e o time de desenvolvimento muitas vezes não conseguirá atender no prazo desejado, saber negociar para que a solução seja boa para agradar quem patrocina sem sobrecarregar quem desenvolve exige um alto poder de negociação.',
+      },
+      {
+        name: 'Primeiros dias',
+        description: 'Dicas para se manter no primeiro emprego',
+      },
+      {
+        name: 'PoC',
+        description: 'Para vender uma solução, muitas vezes é exigida uma Prova de Conceito, seguem algumas dicas para apresentar a solução',
       },
     ]);
   },

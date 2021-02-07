@@ -7,7 +7,15 @@ module.exports = {
         skillId: 1,
       },
       {
+        link: 'https://www.mestregp.com.br/2020/04/20/flexibilidade-adaptabilidade-como-ser-agil-em-contextos-incertos-complexos/',
+        skillId: 1,
+      },
+      {
         link: 'https://www.udemy.com/share/101U7k/',
+        skillId: 2,
+      },
+      {
+        link: 'https://www.udemy.com/course/beginners-guide-to-getting-organised/',
         skillId: 2,
       },
       {
@@ -19,11 +27,19 @@ module.exports = {
         skillId: 4,
       },
       {
+        link: 'https://www.alura.com.br/curso-online-comunicacao',
+        skillId: 4,
+      },
+      {
         link: 'https://descola.org/empatia?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbQ5b5cAtURssKt2zlBzif3Qo2PW6b_F5PTNuw_yp3VW02YvKuTQYOIaAg4REALw_wcB',
         skillId: 5,
       },
       {
-        link: 'https://descola.org/empatia?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbQ5b5cAtURssKt2zlBzif3Qo2PW6b_F5PTNuw_yp3VW02YvKuTQYOIaAg4REALw_wcB',
+        link: 'https://www.alura.com.br/curso-online-comunicacao-nao-violenta-mantendo-empatia',
+        skillId: 5,
+      },
+      {
+        link: 'https://www.udemy.com/course/conscious-listening/',
         skillId: 6,
       },
       {
@@ -43,24 +59,60 @@ module.exports = {
         skillId: 10,
       },
       {
-        link: 'https://www.numerapeopleanalytics.com/pensamento-critico-curso-online-2',
+        link: 'https://www.alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento',
+        skillId: 10,
+      },
+      {
+        link: 'https://www.alura.com.br/curso-online-criatividade-aplicada',
         skillId: 11,
       },
       {
-        link: 'https://www.udemy.com/course/gestao-do-tempo-e-produtividade-u/',
+        link: 'https://www.numerapeopleanalytics.com/pensamento-critico-curso-online-2',
         skillId: 12,
       },
       {
-        link: 'https://www.udemy.com/share/1032Pm/',
+        link: 'https://centrodepesquisaeformacao.sescsp.org.br/atividade/introducao-ao-pensamento-critico-hoje',
+        skillId: 12,
+      },
+      {
+        link: 'https://www.alura.com.br/curso-online-comunicacao-assertiva-reduzindo-conflitos-e-frustracaoes',
         skillId: 13,
       },
       {
-        link: 'https://www.udemy.com/share/103MuJ/',
+        link: 'https://www.udemy.com/course/gestao-do-tempo-e-produtividade-u/',
         skillId: 14,
       },
       {
-        link: 'https://www.alura.com.br/curso-online-principios-trabalho-equipe-relacao-colaborativa?         gclid=Cj0KCQiAmfmABhCHARIsACwPRABQmfxHQRMIX7aFXLalJyJxdQRpG8JfCmrSiIBepyem5zcUqXcLTwwaAiP_EALw_wcB',
+        link: 'https://www.udemy.com/share/1032Pm/',
         skillId: 15,
+      },
+      {
+        link: 'https://www.udemy.com/share/103MuJ/',
+        skillId: 16,
+      },
+      {
+        link: 'https://www.alura.com.br/curso-online-principios-trabalho-equipe-relacao-colaborativa?         gclid=Cj0KCQiAmfmABhCHARIsACwPRABQmfxHQRMIX7aFXLalJyJxdQRpG8JfCmrSiIBepyem5zcUqXcLTwwaAiP_EALw_wcB',
+        skillId: 17,
+      },
+      {
+        link: 'https://descola.org/resolucao-de-problemas-complexos?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbTxnOyQp06Qnor8ytAFwAqf2y59pcw4XWwrk45bCkQ9Dtu_PmrFDfQaAhAnEALw_wcB',
+        skillId: 18,
+      },
+      {
+        link: 'https://www.ibccoaching.com.br/portal/coaching-carreira/dicas-trabalhar-sob-pressao/',
+        skillId: 19,
+      },
+      {
+        link: 'https://www.alura.com.br/curso-online-negociacao-praticas-essenciais',
+        skillId: 20,
+      },
+      {
+        link: 'https://www.learncafe.com/cursos/meu-primeiro-emprego',
+        skillId: 21,
+      },
+      {
+        link: 'https://www.startse.com/noticia/startups/prova-de-conceitopoc-com-startups',
+        skillId: 22,
       },
     ]);
   },
