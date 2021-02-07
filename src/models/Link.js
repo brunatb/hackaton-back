@@ -10,7 +10,7 @@ Link.init({
     allowNull: false,
     primaryKey: true,
   },
-  name: {
+  link: {
     type: Sequelize.STRING(150),
     allowNull: false,
   },

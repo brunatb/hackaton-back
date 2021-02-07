@@ -1,6 +1,7 @@
 const NotFoundError = require('../errors/NotFoundError');
 const Link = require('../models/Link');
 const Profession = require('../models/Profession');
+const ProfessionsSkill = require('../models/ProfessionsSkill');
 const Skill = require('../models/Skill');
 
 class ProfessionsController {
@@ -31,6 +32,10 @@ class ProfessionsController {
 
   async createProfession(name, image) {
     return Profession.create({ name, image });
+  }
+
+  async createProfessionsSkills(professionId, skillId) {
+    return ProfessionsSkill.create({ professionId, skillId });
   }
 }
 

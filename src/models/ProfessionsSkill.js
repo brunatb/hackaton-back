@@ -31,7 +31,7 @@ ProfessionsSkill.init({
 
   sequelize,
   timestamps: false,
-  modelName: 'profession',
+  modelName: 'professionsSkill',
 
 });
 

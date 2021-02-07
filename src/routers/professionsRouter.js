@@ -19,4 +19,10 @@ router.post('/', async (req, res) => {
   res.sendStatus(201);
 });
 
+router.post('/skills', async (req, res) => {
+  const { professionId, skillId } = req.body;
+  await professionsController.createProfessionsSkills(professionId, skillId);
+  res.sendStatus(201);
+});
+
 module.exports = router;
