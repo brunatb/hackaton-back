@@ -47,18 +47,22 @@ module.exports = {
         description: 'O pensamento crítico significa analisar situações de diferentes perspectivas e usar diferentes argumentos para tomar decisões consistentes. Abrange a capacidade de agir diante dos problemas de forma imparcial e crítica.',
       },
       {
+        image: 'https://www.imagemhost.com.br/images/2021/02/07/Time-management-bro.png',
         name: 'Gestão de tempo',
         description: 'A gestão do tempo é o processo de planejamento da execução das atividades diárias, visando à melhoria da eficiência e da produtividade. Em outras palavras, trata-se de um levantamento das atividades que devem ser realizadas e organizá-las por prioridade e pelo tempo necessário para a realização das atividades.',
       },
       {
+        image: 'https://www.imagemhost.com.br/images/2021/02/07/Jb394Zr.png',
         name: 'Adaptabilidade',
         description: 'Adaptabilidade é a capacidade do indivíduo de se adaptar de acordo com as necessidades, situações e circunstâncias.',
       },
       {
+        image: 'https://www.imagemhost.com.br/images/2021/02/07/YA8W69l.png',
         name: 'Autodidatismo',
         description: 'O autodidatismo se refere ao desenvolvimento e processo intelectual independente, ou seja, a pessoa tem a capacidade de aprender algo sem a necessidade de um professor ou instrutor. Os indivíduos adquirem conhecimento de forma autônoma sobre tópicos específicos por meio de hábitos ativos, trabalho árduo e muita pesquisa e prática.',
       },
       {
+        image: 'https://www.imagemhost.com.br/images/2021/02/07/qt1UYRr.png',
         name: 'Trabalho em equipe',
         description: 'O trabalho em equipe é quando pessoas com diferentes vivências, visões e opiniões se unem para resolver um problema em comum.',
       },

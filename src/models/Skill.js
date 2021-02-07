@@ -18,6 +18,10 @@ Skill.init({
     type: Sequelize.STRING(150),
     allowNull: false,
   },
+  image: {
+    type: Sequelize.STRING(10000),
+    allowNull: true,
+  },
 },
 {
 
