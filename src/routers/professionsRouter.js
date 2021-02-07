@@ -7,6 +7,12 @@ router.get('/', async (req, res) => {
   res.send(professions);
 });
 
+router.get('/:id', async (req, res) => {
+  const { id } = req.params;
+  const profession = await professionsController.getProfessionById(id);
+  res.send(profession);
+});
+
 router.post('/', async (req, res) => {
   const { name, image } = req.body;
   await professionsController.createProfession(name, image);

@@ -8,8 +8,8 @@ module.exports = {
         allowNull: false,
         primaryKey: true,
       },
-      name: {
-        type: Sequelize.STRING(150),
+      link: {
+        type: Sequelize.STRING(10000),
         allowNull: false,
       },
       skillId: {
